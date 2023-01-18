@@ -17,9 +17,9 @@
   "admob_hpk_4": "",
   "admob_hpk_5": "",
 
-  "fan_banner_id": "463730055486705_463730292153348",
-  "fan_interstitial_id": "463730055486705_475752314284479",
-  "fan_native_id": "463730055486705_475752504284460",
+  "fan_banner_id": "767571964982230_767572248315535",
+  "fan_interstitial_id": "767571964982230_767575978315162",
+  "fan_native_id": "767571964982230_767576108315149",
 
   "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
   "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
@@ -31,7 +31,7 @@
   "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
-    "MOPUB",
-    "FAN"
+    "FAN",
+    "MOPUB"
   ]
 }
